@@ -74,5 +74,5 @@ jobs:
         id: deploy-to-webapp
         with:
           app-name: 'Yanka1bea'
-          slot-name: 'staging'
+          slot-name: 'dev'
           
